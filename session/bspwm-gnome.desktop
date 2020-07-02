@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=bspwm-gnome
+NoDisplay=true
+Comment=bspwm forked by rusk
+Exec=bspwm-gnome
+X-GNOME-WMName=bspwm-gnome
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
