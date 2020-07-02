@@ -12,13 +12,13 @@ Allows you to use i3-wm with GNOME 3 Session infrastructure.
 
 
 ## Requirements
-* i3-wm
+* bspwm
 * GNOME (3.36.x)
 * GDM (optional, but useful)
 * [GNOME Flashback](https://github.com/i3-gnome/i3-gnome/wiki/Tips-&-Tricks#gnome-flashback)
 
 ## Packages
-[![i3-gnome](https://img.shields.io/aur/version/i3-gnome.svg?label=i3-gnome)](https://aur.archlinux.org/packages/i3-gnome/)
+[![bspwm-gnome](https://img.shields.io/aur/version/i3-gnome.svg?label=i3-gnome)](https://aur.archlinux.org/packages/i3-gnome/)
 
 ## Installation from scratch
 Using `make`:
